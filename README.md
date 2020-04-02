@@ -74,8 +74,6 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
-
 * Imagen visual : Todas las imágenes de los productos cosméticos se harán con una cámara profesional y se editará con el programa de Photoshop.
 
 * redes sociales: Incluiremos en todas las redes sociales (Instagram, Facebook, Twitter y Youtube) el enlace a la página web donde podrán ver y comprar los productos. Además, a través del E-commerce en Instagram, facilitaremos la compra en esta aplicación con solo hacer click encima de las imágenes de cada producto. También, se harán sorteos, encuestas, enviaremos prodcutos a influencer para darnos más a conocer y abriremos un espacio para facilitarles a los usuarios su propuestas en nuevos productos.
