@@ -59,9 +59,9 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** : Esta propuesta de trabajo me parece interesante ya que, hoy en día, muchas de las personas a las que le gusta cuidarse, tienen la necesidad de saber qué ingredientes tienen sus productos y cómo se fabrican estos. Una cosa es lo que la persona puede ver en el etiquetado de cada producto, y otra muy diferente es ver paso a paso cómo se elabora y poder dar constancia de la procedencia de cada ingrediente y las fases que conlleva hasta llegar a convertirse en un producto final.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios** : Este proyecto será útil para todo el público en general, ya que les brindas esa posibilidad de ver el paso a paso de la elaboración de los productos, los ingredientes que poseé, la procedencia de estos y, aquellos interesados en ello, podrán acceder a verlo.
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
@@ -76,20 +76,20 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual : Todas las imágenes de los productos cosméticos se harán con una cámara profesional y se editará con el programa de Photoshop.
 
-* redes sociales (...) 
+* redes sociales: Incluiremos en todas las redes sociales (Instagram, Facebook, Twitter y Youtube) el enlace a la página web donde podrán ver y comprar los productos. Además, a través del E-commerce en Instagram, facilitaremos la compra en esta aplicación con solo hacer click encima de las imágenes de cada producto. También, se harán sorteos, encuestas, enviaremos prodcutos a influencer para darnos más a conocer y abriremos un espacio para facilitarles a los usuarios su propuestas en nuevos productos.
 
-* publicidad: banner (... ) 
+* publicidad: en los banner incluiremos una llamada a la acción con Google web designer que capte inmediatamente la atención del usuario, por ejemplo: “Pulse aquí“, “Pide muestras gratis“, “Pruebe nuestro producto“ "crea tu propio cosmético" .
 
-* ...
+* página web en la que aparecerán imágenes de los productos cosméticos y clicando encima de una un producto te llevará, a través de un enlace, al vídeo concreto de ese producto clicado y se explicará paso a paso cómo se ha ido elaborando.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+* Test con usuarios : se le entrevistaría a algunos usuarios y estas entrevistas también estarán incluidas en la página web y se harían cuestionarios con recompensa de un tanto por ciento de descuento en sus próximas compras.
+* Indicadores con medida: a través de nuestras redes sociales podremos ver el número de visitas que hemos recibido, los nuevos seguidores que tenemos y la edad aproximada de estos y las publicaciones con más Likes, Favoritos y Retweet que han obtenido.
 
 
 
