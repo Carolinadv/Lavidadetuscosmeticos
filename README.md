@@ -50,7 +50,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* Me he basado en una mezcla de un campo de aplicación que sería la cosmética en la cual me fijo en un producto, en este caso ha sido la marca Montealoe (https://www.montealoe.es/) porque ofrece productos 100% naturales y ecológicos, y otra mezcla en la que yo quiero ver el proceso creativo de cómo han ido creando ese producto, en este caso me he dejado llevar por los tutoriales de vídeos y remedios caseros de YouTube donde te explican paso a paso cómo se elaboran los productos de cosmética naturales.
+* Me he basado en una mezcla de un campo de aplicación que sería la cosmética en la cual me fijo en un producto, en este caso ha sido la marca Montealoe (https://www.montealoe.es/) porque ofrece productos 100% naturales y ecológicos, y en la que yo quiero ver el proceso creativo de cómo han ido creando ese producto, en este caso me he dejado llevar por los tutoriales de vídeos y remedios caseros de YouTube donde te explican paso a paso cómo se elaboran los productos de cosmética naturales.
 
 **Necesidad/oportunidad** 
 
