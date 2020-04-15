@@ -29,7 +29,7 @@ También, se dispondrá de una opción para sugerencias por si algún consumidor
 
 **Fecha** : 2020
 
-**Medios** (donde se tiene presencia):
+**Medios** :
 
 
 *  :octocat: (https://github.com/Carolinadv?tab=repositories)  
