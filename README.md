@@ -25,15 +25,14 @@ También, se dispondrá de una opción para sugerencias por si algún consumidor
 
 **Hashtag** : #cosmética #pasoapaso #ingredientes #creación #natural #ecológico
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**    ![licencia](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png) 
 
 **Fecha** : 2020
 
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
-* Twitter 
+*  :octocat: (https://github.com/Carolinadv?tab=repositories)  
 * Facebook
 * Instagram
 * Youtube
@@ -52,10 +51,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
-
+* Me he basado en una mezcla de un campo de aplicación que sería la cosmética en la cual me fijo en un producto, en este caso ha sido la marca Montealoe (https://www.montealoe.es/) porque ofrece productos 100% naturales y ecológicos, y otra mezcla en la que yo quiero ver el proceso creativo de cómo han ido creando ese producto, en este caso me he dejado llevar por los tutoriales de vídeos y remedios caseros de YouTube donde te explican paso a paso cómo se elaboran los productos de cosmética naturales.
 
 **Necesidad/oportunidad** 
 
