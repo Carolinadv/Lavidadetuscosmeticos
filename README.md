@@ -60,10 +60,9 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+* Nuestro proyecto será tipo publicitario donde explicaremos cómo nuestros productos se elaboran paso a paso a través de páginas web y redes sociales y así tener más presencia ante el público.
+* También haremos un documental interactivo para explicarlo todo y darnos más a conocer darnos más publicidad. (https://view.genial.ly/5e20b27f9e64014072aa461f/interactive-image-imagen-interactiva) Esto es un ejemplo realizado con la herramienta Genially y la marca Montealoe donde al pinchar sobre una de las cruces moradas, te lleva a la página web para que lo compres, haremos lo mismo con los productos para que lleve al usuario al vídeo de cómo se elabora dicho producto y acto seguido a la compra de este.
+* Daremos una serie de consejos en nuestros post en redes sociales, directos especializados en dar consejos y en nuestros vídeos de nuestra página web.
 
 
 
