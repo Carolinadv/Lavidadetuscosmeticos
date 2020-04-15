@@ -14,9 +14,9 @@ Univesidad de Granada
 
 **Resumen** : Los productos cosméticos que se utilizan hoy en día suelen estar hechos con diversas sustancias químicas que pueden dañar la piel, la salud e incluso al medio ambiente. Además de que muchos de ellos son testados en animales. Actualmente, una gran parte de la población se preocupa por los ingredientes que llevan dichos cosméticos y la calidad de estos.
 
-Este proyecto se basa en la creación de una marca de cosmética natural que tiene como finalidad poder darle al consumidor la certeza y la oportunidad de ver cómo se elabora cada uno de los productos a través de vídeos subidos a la página web (que se creará con Wix o Drupal7), redes sociales (Facebook, Instagram, Youtube y Twitter) y directos que se emitirían uno o dos días a la semana.
+Este proyecto se basa en la creación de una marca de cosmética natural que tiene como finalidad poder darle al consumidor la certeza y la oportunidad de ver cómo se elabora cada uno de los productos a través de vídeos subidos a la página web (que se creará con Wix), redes sociales (Facebook, Instagram y Youtube) y directos que se emitirían uno o dos días a la semana a través de estas redes sociales.
 
-También, se dispondrá de una opción para sugerencias por si algún consumidor quiere aportar alguna idea o algún producto nuevo y así valorarlo e intentar llevarlo a cabo. Esta idea de proyecto ayudaría a fidelizar a los usuarios con la marca ya que podrán ver paso a paso cómo elaboran los productos, qué ingredientes utilizan y de dónde provienen dichos ingredientes, así como algunos consejos y tutoriales para elaborar algún producto fácil en casa.
+También, se dispondrá de una opción para sugerencias por si algún consumidor quiere aportar alguna idea o algún producto nuevo y así valorarlo e intentar llevarlo a cabo. Esta idea de proyecto ayudaría a fidelizar a los usuarios con la marca ya que podrán ver paso a paso cómo se elaboran los productos, qué ingredientes utilizan y de dónde provienen dichos ingredientes, así como algunos consejos y tutoriales para elaborar algún producto fácil en casa.
 
 **logotipo** :  ________
 
@@ -59,25 +59,25 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Estilo de narración**  
 
-* Nuestro proyecto será tipo publicitario donde explicaremos cómo nuestros productos se elaboran paso a paso a través de páginas web y redes sociales y así tener más presencia ante el público.
-* También haremos un documental interactivo para explicarlo todo y darnos más a conocer darnos más publicidad. (https://view.genial.ly/5e20b27f9e64014072aa461f/interactive-image-imagen-interactiva) Esto es un ejemplo realizado con la herramienta Genially y la marca Montealoe donde al pinchar sobre una de las cruces moradas, te lleva a la página web para que lo compres, haremos lo mismo con nuestros productos para que lleve al usuario al vídeo de cómo se elabora dicho producto y acto seguido a la compra de este.
-* Daremos una serie de consejos en nuestros post en redes sociales, directos especializados en dar consejos y en nuestros vídeos de nuestra página web.
+* Este proyecto será tipo publicitario donde se explicará cómo se elaboran nuestros productos paso a paso a través de la página web y de las redes sociales y así tener más presencia ante el público.
+* También se creará un documental interactivo para explicarlo todo y dar más publicidad a nuestra web. (https://view.genial.ly/5e20b27f9e64014072aa461f/interactive-image-imagen-interactiva) Esto es un ejemplo realizado con la herramienta Genially y la marca Montealoe donde al pinchar sobre una de las cruces moradas, te lleva a la página web para que lo compres, se hará lo mismo con nuestros productos para que lleve al usuario al vídeo de cómo se elabora dicho producto y acto seguido a la compra de este.
+* Se dará una serie de consejos en nuestros post en redes sociales, directos especializados en dar consejos y en los vídeos de nuestra página web.
 
 
 
 ### Etapa 2: Prototipar / productos 
 
-* Imagen visual : Todas las imágenes de los productos cosméticos se harán con una cámara profesional y se editará con el programa de Photoshop.
+* Imagen visual: Todas las imágenes de los productos cosméticos se harán con una cámara profesional y se editará con los programas Photoshop y Genially.
 
-* Redes sociales: Incluiremos en todas las redes sociales (Instagram, Facebook, Twitter y Youtube) el enlace a la página web donde podrán ver y comprar los productos. Además, a través del E-commerce en Instagram, facilitaremos la compra en esta aplicación con solo hacer click encima de las imágenes de cada producto. También, se harán sorteos, encuestas, enviaremos prodcutos a influencer para darnos más a conocer y abriremos un espacio para facilitarles a los usuarios su propuestas en nuevos productos.
+* Redes sociales: Se incluirá en todas las redes sociales (Instagram, Facebook y Youtube) el enlace a la página web donde se podrá ver y comprar los productos. Además, a través del E-commerce en Instagram, se facilitará la compra en esta aplicación con solo hacer click encima de las imágenes de cada producto. También, se harán sorteos, encuestas, se enviarán productos a diversos influencer para darnos más visibilidad y se abrirá un espacio para facilitar a los usuarios su propuestas para próximos y nuevos productos.
 
 * Publicidad: en los banner incluiremos una llamada a la acción con Google web designer que capte inmediatamente la atención del usuario, por ejemplo: “Pulse aquí“, “Pide muestras gratis“, “Pruebe nuestro producto“ "crea tu propio cosmético".
 
-* Página web en la que aparecerán imágenes de los productos cosméticos y clicando encima de una un producto te llevará, a través de un enlace, al vídeo concreto de ese producto clicado y se explicará paso a paso cómo se ha ido elaborando.
+* Página web en la que aparecerán imágenes de los productos cosméticos y clicando encima de un producto llevará, a través de un enlace, al vídeo concreto de ese producto clicado y se explicará paso a paso cómo se ha ido elaborando.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-* Test con usuarios: se le entrevistaría a algunos usuarios y estas entrevistas también estarán incluidas en la página web y se harían cuestionarios con recompensa de un tanto por ciento de descuento en sus próximas compras.
+* Test con usuarios: se entrevistará a algunos usuarios y estas entrevistas también estarán incluidas en la página web y se harán cuestionarios con recompensa de un tanto por ciento de descuento en sus próximas compras.
 * Indicadores con medida: a través de nuestras redes sociales podremos ver el número de visitas que hemos recibido, los nuevos seguidores que tenemos y la edad aproximada de estos y las publicaciones con más Likes, Favoritos y Retweet que han obtenido.
 
 
