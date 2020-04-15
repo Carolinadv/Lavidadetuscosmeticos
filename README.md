@@ -33,7 +33,7 @@ También, se dispondrá de una opción para sugerencias por si algún consumidor
 
 
 *  :octocat: (https://github.com/Carolinadv?tab=repositories)  
-* ![facebook](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F790381803336554775%2F&psig=AOvVaw2jmKhXrC45S7ddIzx_3nst&ust=1587039607656000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCRlrm16ugCFQAAAAAdAAAAABAD)
+*![facebook(https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F790381803336554775%2F&psig=AOvVaw2jmKhXrC45S7ddIzx_3nst&ust=1587039607656000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCRlrm16ugCFQAAAAAdAAAAABAD)
 * Instagram
 * Youtube
 
