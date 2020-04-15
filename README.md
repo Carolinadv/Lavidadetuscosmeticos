@@ -17,7 +17,7 @@ Univesidad de Granada
 
 Este proyecto se basa en la creación de una marca de cosmética natural que tiene como finalidad poder darle al consumidor la certeza y la oportunidad de ver cómo se elabora cada uno de los productos a través de vídeos subidos a la página web (que se creará con Wix o Drupal7), redes sociales (Facebook, Instagram, Youtube y Twitter) y directos que se emitirían uno o dos días a la semana.
 
-También, se dispondrá de una opción para sugerencias por si algún consumidor quiere sugerir alguna idea o algún producto nuevo y así valorarlo e intentar llevarlo a cabo. Esta idea de proyecto ayudaría a fidelizar a los usuarios con la marca ya que podrán ver paso a paso cómo elaboran los productos, qué ingredientes utilizan y de dónde provienen dichos ingredientes, así como algunos consejos y tutoriales para elaborar algún producto fácil en casa.
+También, se dispondrá de una opción para sugerencias por si algún consumidor quiere aportar alguna idea o algún producto nuevo y así valorarlo e intentar llevarlo a cabo. Esta idea de proyecto ayudaría a fidelizar a los usuarios con la marca ya que podrán ver paso a paso cómo elaboran los productos, qué ingredientes utilizan y de dónde provienen dichos ingredientes, así como algunos consejos y tutoriales para elaborar algún producto fácil en casa.
 
 **logotipo** :  ________
 
