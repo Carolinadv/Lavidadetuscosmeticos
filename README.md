@@ -14,7 +14,7 @@ Univesidad de Granada
 
 **Resumen** : Los productos cosméticos que se utilizan hoy en día suelen estar hechos con diversas sustancias químicas que pueden dañar la piel, la salud e incluso al medio ambiente. Además de que muchos de ellos son testados en animales. Actualmente, una gran parte de la población se preocupa por los ingredientes que llevan dichos cosméticos y la calidad de estos.
 
-Este proyecto se basa en la creación de una marca de cosmética natural que tiene como finalidad poder darle al consumidor la certeza y la oportunidad de ver cómo se elabora cada uno de los productos a través de vídeos subidos a la página web (que se creará con Wix), redes sociales (Facebook, Instagram y Youtube) y directos que se emitirían uno o dos días a la semana a través de estas redes sociales.
+Este proyecto se basa en la creación de una marca de cosmética natural que tiene como finalidad poder darle al consumidor la certeza y la oportunidad de ver cómo se elabora cada uno de los productos a través de vídeos subidos a la página web (que se creará con Wix), redes sociales (Facebook, Instagram y Youtube) y directos que se emitirían uno o dos días a la semana a través de estas redes sociales. Los ingredientes de nuestros productos serán adquiridos de unos invernaderos ecológicos de diversos pueblos de Jaén.
 
 También, se dispondrá de una opción para sugerencias por si algún consumidor quiere aportar alguna idea o algún producto nuevo y así valorarlo e intentar llevarlo a cabo. Esta idea de proyecto ayudaría a fidelizar a los usuarios con la marca ya que podrán ver paso a paso cómo se elaboran los productos, qué ingredientes utilizan y de dónde provienen dichos ingredientes, así como algunos consejos y tutoriales para elaborar algún producto fácil en casa.
 
@@ -33,7 +33,7 @@ También, se dispondrá de una opción para sugerencias por si algún consumidor
 
 *  :octocat: (https://github.com/Carolinadv?tab=repositories)  
 * Facebook
-* Instagram
+* Instagram: (https://www.instagram.com/vidacosmetica_/) En esta cuenta se ha puesto ejemplos con otros productos que no son los nuestros ya que aún no los tenemos elaborados, una vez elaborados se procederá a publicarlos.
 * Youtube
 
 
