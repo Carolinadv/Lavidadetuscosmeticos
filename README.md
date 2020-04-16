@@ -108,7 +108,7 @@ En este proyecto,como dije anteriormente, pueden colaborar diferentes empresas, 
 
 Referencias y recursos: 
 
-* Productos de Montealoe para las fotografías (ya mostradas anteriormente)
+* Productos de Montealoe y Kapyderm para las fotografías (ya mostradas anteriormente)
 
 ----
 
