@@ -114,12 +114,17 @@ Referencias y recursos:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
+* [Genially](https://view.genial.ly/5e20b27f9e64014072aa461f/interactive-image-imagen-interactiva)
+* [Montealoe](https://www.montealoe.es/)
+* [Kapyderm](http://www.kapyderm.com/)
+* [Wix](https://es.wix.com/)
+* [Instagram](https://www.instagram.com/vidacosmetica_/)
+* [Trello](https://trello.com/b/3YjvDccp/proyectomultimedia)
+
 
 (...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+* (Productos de la marca Montealoe y Kapiderm como ejemplos) 
+* (Imágenes personales) 
 
 
 
