@@ -87,10 +87,12 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
+* Grado de consecución del proyecto
+
 En el lanzamiento del proyecto se irá dando publicidad poco a poco a través de nuestras redes sociales y se subirán vídeos de cómo se están realizando y procesando los productos. Una vez que estén elaborados se harán sorteos para dar más a conocer a la marca y a la empresa, y poco a poco iremos subiendo y añadiendo nuevos vídeos de los productos para que inciten al espectador a su compra.
 
 * Problemas identificados
+
 Al principio tenía la idea pero no sabía cómo elaborarla, quería hacerlo de tal manera que mi proyecto se tratara solamente de hacer vídeos del proceso de los productos, es decir, que las empresas se pusieran en contacto conmigo para hacerles yo el vídeo del procesado de sus productos y encargarme de todo lo que eso conlleva, pero vi mucho mejor el inventar una marca que se dedique a fidelizar a los usuarios ¿y cómo hacerlo mejor que con vídeos en los que los usuarios ven el procesado de sus productos?
 
 Otro problema que se me presentó al principio fue el de la inspiración, ya que mi proyecto fue una idea que se me vino a la cabeza porque, hasta ahora, no hay ninguna marca que se dedique a mostrar al público la elaboración de sus productos a través de vídeos y de directos.
