@@ -51,7 +51,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * Me he basado en una mezcla de un campo de aplicación que sería la cosmética en la cual me fijo en un producto, en este caso ha sido la marca Montealoe (https://www.montealoe.es/) porque ofrece productos 100% naturales y ecológicos, y en la que yo quiero ver el proceso creativo de cómo han ido creando ese producto, en este caso me he dejado llevar por los tutoriales de vídeos y remedios caseros de YouTube donde te explican paso a paso cómo se elaboran los productos de cosmética naturales.
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** : En la sociedad actual, muchas personas necesitan saber de qué y cómo se han elaborado sus productos para tener la certeza de que lo que les venden es cierto. Con este proyecto, se brinda esa oportunidad de conocer todos y cada uno de los detalles de la elaboración de todos los cosméticos.
 
 **Motivación de la propuesta** : Esta propuesta de trabajo me parece interesante ya que, hoy en día, muchas de las personas a las que le gusta cuidarse, tienen la necesidad de saber qué ingredientes tienen sus productos y cómo se fabrican estos. Una cosa es lo que la persona puede ver en el etiquetado de cada producto, y otra muy diferente es ver paso a paso cómo se elabora y poder dar constancia de la procedencia de cada ingrediente y las fases que conlleva hasta llegar a convertirse en un producto final.
 
