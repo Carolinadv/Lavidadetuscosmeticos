@@ -96,9 +96,11 @@ Al principio tenía la idea pero no sabía cómo elaborarla, quería hacerlo de 
 Otro problema que se me presentó al principio fue el de la inspiración, ya que mi proyecto fue una idea que se me vino a la cabeza porque, hasta ahora, no hay ninguna marca que se dedique a mostrar al público la elaboración de sus productos a través de vídeos y de directos.
 
 * Propuestas de mejora
+
 Podría llevarse a cabo y convertirse en un gran proyecto en el que podrían colaborar, con el paso del tiempo, diferentes empresas para darnos mútuamente publicidad. Porque, hasta ahora, no hay ninguna marca ni empresa que lleve a cabo esta forma de vender sus productos, y podría ser bastante novedoso, y tengo la certeza de que sería un proyecto al que se le sacaría mucho partido.
 
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Posible interés del proyecto 
+
 En este proyecto,como dije anteriormente, pueden colaborar diferentes empresas, personas relacionadas con el sector de la publicidad, de la ecología, fotografos y editores, y si asciende a más este proyecto podría incluso convertirse en anuncios publicitarios para la televisión. 
 
 
